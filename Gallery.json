@@ -1,13 +1,13 @@
 [
     {
         "name": "Knife1",
-        "createdDate": "2008-06-17T05:00:00.000Z",
+        "createdDate": "6/17/08",
         "src": "knife1.jpg",
         "description": "Cool knife brother"
     },
     {
         "name": "Knife2",
-        "createdDate": "2009-08-27T05:00:00.000Z",
+        "createdDate": "8/27/09",
         "src": [
             "[\"knife1.jpg\"",
             "\"knife2.jpg\"]"
@@ -16,7 +16,7 @@
     },
     {
         "name": "Knife3",
-        "createdDate": "2021-09-04T05:00:00.000Z",
+        "createdDate": "9/4/21",
         "src": [
             "[\"knife1.jpg\"",
             "\"knife2.jpg\"]"
@@ -25,13 +25,13 @@
     },
     {
         "name": "Knife4",
-        "createdDate": "2008-06-17T05:00:00.000Z",
+        "createdDate": "6/17/08",
         "src": "knife1.jpg",
         "description": "Cool knife brother"
     },
     {
         "name": "Knife5",
-        "createdDate": "2009-08-27T05:00:00.000Z",
+        "createdDate": "8/27/09",
         "src": [
             "[\"knife1.jpg\"",
             "\"knife2.jpg\"]"
@@ -40,7 +40,7 @@
     },
     {
         "name": "Knife6",
-        "createdDate": "2021-09-04T05:00:00.000Z",
+        "createdDate": "9/4/21",
         "src": [
             "[\"knife1.jpg\"",
             "\"knife2.jpg\"]"
@@ -49,7 +49,7 @@
     },
     {
         "name": "Knife7",
-        "createdDate": "2008-06-17T05:00:00.000Z",
+        "createdDate": "6/17/08",
         "src": "knife1.jpg",
         "description": "Cool knife brother"
     }
