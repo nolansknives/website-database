@@ -1,55 +1,55 @@
 [
     {
         "name": "Knife1",
-        "price": "10",
+        "createdDate": "2008-06-17T05:00:00.000Z",
         "src": "knife1.jpg",
-        "description": "Cool knife brother, A knife that I handcrafted as a 16yo knife forger. My name is Nolan and I make knives, I have been doing it for 3 years. This specific knife was designed to be used for hunters"
+        "description": "Cool knife brother"
     },
     {
         "name": "Knife2",
-        "price": "20",
+        "createdDate": "2009-08-27T05:00:00.000Z",
         "src": [
-            "knife1.jpg",
-            "knife2.jpg"
+            "[\"knife1.jpg\"",
+            "\"knife2.jpg\"]"
         ],
         "description": "Cool knife brother"
     },
     {
         "name": "Knife3",
-        "price": "30",
+        "createdDate": "2021-09-04T05:00:00.000Z",
         "src": [
-            "knife1.jpg",
-            "knife2.jpg"
+            "[\"knife1.jpg\"",
+            "\"knife2.jpg\"]"
         ],
         "description": "Cool knife brother"
     },
     {
         "name": "Knife4",
-        "price": "40",
+        "createdDate": "2008-06-17T05:00:00.000Z",
         "src": "knife1.jpg",
         "description": "Cool knife brother"
     },
     {
         "name": "Knife5",
-        "price": "50",
+        "createdDate": "2009-08-27T05:00:00.000Z",
         "src": [
-            "knife1.jpg",
-            "knife2.jpg"
+            "[\"knife1.jpg\"",
+            "\"knife2.jpg\"]"
         ],
         "description": "Cool knife brother"
     },
     {
         "name": "Knife6",
-        "price": "60",
+        "createdDate": "2021-09-04T05:00:00.000Z",
         "src": [
-            "knife1.jpg",
-            "knife2.jpg"
+            "[\"knife1.jpg\"",
+            "\"knife2.jpg\"]"
         ],
         "description": "Cool knife brother"
     },
     {
         "name": "Knife7",
-        "price": "70",
+        "createdDate": "2008-06-17T05:00:00.000Z",
         "src": "knife1.jpg",
         "description": "Cool knife brother"
     }
